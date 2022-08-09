@@ -20,3 +20,11 @@ Compute the middle index.
  - Average complexity: O(n)
  - Space complexity: O(1)
  - Average performance: O(n/2)
+
+[3. Bubble Sort](https://youtu.be/byHQ51uuFHw)
+ - What is a JavaScript Bubble Sort? A bubble sort, or a “sinking sort,” is a simple sorting algorithm that compares a pair of adjacent elements in a list. 
+ - If an element is not in the right order, we swap the element with the one before. Otherwise, the element remains in the same place.
+ 
+ - The worst case scenario: quadratic O(n²)
+ - Best case scenario: linear O(n)
+ - The space complexity of Bubble Sort is O(1)
