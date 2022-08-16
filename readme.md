@@ -28,3 +28,15 @@ Compute the middle index.
  - The worst case scenario: quadratic O(n²)
  - Best case scenario: linear O(n)
  - The space complexity of Bubble Sort is O(1)
+
+[4. Selection Sort](https://youtu.be/F9Nr7hjaRQI)
+ - The selection sort algorithm sorts an array by repeatedly finding the minimum element (considering ascending order) from unsorted part and putting it at the beginning. 
+ - The algorithm maintains two subarrays in a given array.
+
+ -The subarray which is already sorted. 
+ - Remaining subarray which is unsorted.
+ - In every iteration of selection sort, the minimum element (considering ascending order) from the unsorted subarray is picked and moved to the sorted subarray. 
+ - Worst complexity: n^2
+ - Average complexity: n^2
+ - Best complexity: n^2
+ - Space complexity: 1
