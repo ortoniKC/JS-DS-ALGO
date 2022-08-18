@@ -40,3 +40,11 @@ Compute the middle index.
  - Average complexity: n^2
  - Best complexity: n^2
  - Space complexity: 1
+
+[5. Insertion sort](https://youtu.be/8Is4U6vXYP8)
+ - Insertion sort is a simple sorting algorithm that builds the final sorted array one item at a time.
+ - It is much less efficient on large lists than more advanced algorithms such as quicksort, heapsort, or merge sort.
+ - Worst complexity: n^2
+ - Average complexity: n^2
+ - Best complexity: n
+ - Space complexity: 1
